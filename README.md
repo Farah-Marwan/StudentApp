@@ -19,10 +19,8 @@ The project demonstrates Git & GitHub workflow including branches, commits, and 
 ## 📸 Screenshots
 
 ### App Home Screen
-(Add screenshot here)
+<img width="447" height="702" alt="image" src="https://github.com/user-attachments/assets/5f1823ed-3ad9-41c1-a997-50e86e528ad9" />
 
-### Git Branching
-(Add screenshot here)
 
 ---
 
